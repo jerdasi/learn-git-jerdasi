@@ -1,2 +1,4 @@
 Nama Saya Jeremia Daniel Silitonga
 Belajar Git dari QA
+
+Saya menambahkan dari branch feature_a
